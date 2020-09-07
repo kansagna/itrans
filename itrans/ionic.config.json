@@ -1,0 +1,7 @@
+{
+  "name": "itrans",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
